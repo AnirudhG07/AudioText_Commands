@@ -11,5 +11,6 @@ I have used AssemblyAI in some of the programs! Thanks for an easy-to-use model!
 This repository is made to support me in my First Semester Self-Made Project.
 It involves various uses of Audio, Text and how to output them side by side, etc.
 
-- Created by Anirudh Gupta
+
+Created by Anirudh Gupta
 
