@@ -14,12 +14,13 @@ It involves various uses of Audio, Text and how to output them side by side, etc
 
 # Uses of Files 
 
-- The mp3 and wav files are random english speech which i used in codes. Taken from kaggle, website'es freely available files.
+- The mp3 and wav files are random english speech which i used in codes. Taken from kaggle, website's freely available files.
 - speech to text converts your voice to text.
 - audiofile_to_text1.py converts anyaudio to text, with various properties using AssemblyAI
 - AudioStampsByWord returns timestamps for each in milliseconds.
 - gtts_sound_translate is gtts people know in love.
 - pyttsx3.py is python documentation of pyttsx3 as it is, which i use to remember command lines.
+- WhisperAI-manual.py is simply docs of OPENAI of whisper, which converts text to speech(Advantage: various voices, can control speed)
 
 Created by Anirudh Gupta
 
